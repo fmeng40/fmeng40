@@ -1,12 +1,12 @@
-👋 Hi, I’m Fanhong Meng, a passionate data engineer and software developer.
-👀 I’m interested in dealing with data from different kinds industies to build real-world applications to help business
+-👋 Hi, I’m Fanhong Meng, a passionate data engineer and software developer.
+-👀 I’m interested in dealing with data from different kinds industies to build real-world applications to help business
 
 Here are some example projects that I did:
 
 1. Database project
 
 2. Text classfication applications
-    We tested and compared five supervised machine learning algorithms including Decision tree, Support Vector Machine, Neural Network, Ada Boosting and k-   
+    -We tested and compared five supervised machine learning algorithms including Decision tree, Support Vector Machine, Neural Network, Ada Boosting and k-   
     Nearest Neighbors on two classification tasks.
 
     1) The first classification task is a classical application of machine learning in the real word, which is to evaluate if the email contains spam content 
