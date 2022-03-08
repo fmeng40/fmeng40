@@ -1,5 +1,5 @@
 👋 Hi, I’m Fanhong Meng, a passionate data engineer and software developer.
-👀 I’m interested in deal with data from different kinds of businesses or industies to build real-world application
+👀 I’m interested in dealing with data from different kinds industies to build real-world applications to help business
 
 Here are some example projects that I did:
 
